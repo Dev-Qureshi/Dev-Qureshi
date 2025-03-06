@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahamd Qureshi
+- 👋 Hi, I’m Ahmad Qureshi
 - 👀 I’m interested in making things
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I hope it works, fingers cross 🤞
